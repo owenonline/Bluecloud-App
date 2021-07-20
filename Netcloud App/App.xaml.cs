@@ -10,7 +10,7 @@ namespace Netcloud_App
         {
             InitializeComponent();
 
-            MainPage = new MainPage();
+            MainPage = new Main_Menu();
         }
 
         protected override void OnStart()

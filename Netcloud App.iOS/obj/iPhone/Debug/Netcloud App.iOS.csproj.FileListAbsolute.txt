@@ -57,3 +57,8 @@ C:\Users\Owen Burns\source\repos\Netcloud App\Netcloud App.iOS\obj\iPhone\Debug\
 C:\Users\Owen Burns\source\repos\Netcloud App\Netcloud App.iOS\obj\iPhone\Debug\Netcloud App.iOS.csproj.CopyComplete
 C:\Users\Owen Burns\source\repos\Netcloud App\Netcloud App.iOS\obj\iPhone\Debug\Netcloud App.iOS.exe
 C:\Users\Owen Burns\source\repos\Netcloud App\Netcloud App.iOS\obj\iPhone\Debug\Netcloud App.iOS.pdb
+C:\Users\Owen Burns\source\repos\Netcloud App\Netcloud App.iOS\bin\iPhone\Debug\MediaManager.dll
+C:\Users\Owen Burns\source\repos\Netcloud App\Netcloud App.iOS\bin\iPhone\Debug\MediaManager.pdb
+C:\Users\Owen Burns\source\repos\Netcloud App\Netcloud App.iOS\bin\iPhone\Debug\Plugin.SimpleAudioPlayer.Abstractions.dll
+C:\Users\Owen Burns\source\repos\Netcloud App\Netcloud App.iOS\bin\iPhone\Debug\Plugin.SimpleAudioPlayer.Abstractions.pdb
+C:\Users\Owen Burns\source\repos\Netcloud App\Netcloud App.iOS\bin\iPhone\Debug\Plugin.SimpleAudioPlayer.dll

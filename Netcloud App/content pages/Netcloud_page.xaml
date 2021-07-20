@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Netcloud_App.content_pages.Netcloud_page">
+
+    <ScrollView>
+        <StackLayout x:Name="alert_stack">
+        </StackLayout>
+    </ScrollView>
+
+</ContentPage>
