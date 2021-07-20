@@ -1,1 +1,2 @@
 # Bluecloud-App
+This is an app developed for Blueline Technology that retreives alert events from an in-house API and displays them, with support for Netcloud off/online event, Incontrol off/online events, and Incontrol bandwidth alert events. The user can view more info about these events by clicking on their color-coded frames in the corrresponding tabs, or delete them by clicking on the delete button, an action reflected in all running instances of the app.
