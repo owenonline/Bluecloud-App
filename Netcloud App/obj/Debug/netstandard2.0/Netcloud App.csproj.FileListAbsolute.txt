@@ -1,0 +1,14 @@
+C:\Users\Owen Burns\source\repos\Netcloud App\Netcloud App\bin\Debug\netstandard2.0\Netcloud App.deps.json
+C:\Users\Owen Burns\source\repos\Netcloud App\Netcloud App\bin\Debug\netstandard2.0\Netcloud App.dll
+C:\Users\Owen Burns\source\repos\Netcloud App\Netcloud App\bin\Debug\netstandard2.0\ref\Netcloud App.dll
+C:\Users\Owen Burns\source\repos\Netcloud App\Netcloud App\bin\Debug\netstandard2.0\Netcloud App.pdb
+C:\Users\Owen Burns\source\repos\Netcloud App\Netcloud App\obj\Debug\netstandard2.0\Netcloud App.csprojAssemblyReference.cache
+C:\Users\Owen Burns\source\repos\Netcloud App\Netcloud App\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Owen Burns\source\repos\Netcloud App\Netcloud App\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Owen Burns\source\repos\Netcloud App\Netcloud App\obj\Debug\netstandard2.0\Netcloud App.AssemblyInfoInputs.cache
+C:\Users\Owen Burns\source\repos\Netcloud App\Netcloud App\obj\Debug\netstandard2.0\Netcloud App.AssemblyInfo.cs
+C:\Users\Owen Burns\source\repos\Netcloud App\Netcloud App\obj\Debug\netstandard2.0\Netcloud App.csproj.CoreCompileInputs.cache
+C:\Users\Owen Burns\source\repos\Netcloud App\Netcloud App\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Owen Burns\source\repos\Netcloud App\Netcloud App\obj\Debug\netstandard2.0\Netcloud App.dll
+C:\Users\Owen Burns\source\repos\Netcloud App\Netcloud App\obj\Debug\netstandard2.0\ref\Netcloud App.dll
+C:\Users\Owen Burns\source\repos\Netcloud App\Netcloud App\obj\Debug\netstandard2.0\Netcloud App.pdb
